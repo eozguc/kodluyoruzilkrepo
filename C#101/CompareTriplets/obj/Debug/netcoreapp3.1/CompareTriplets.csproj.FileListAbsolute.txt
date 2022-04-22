@@ -1,0 +1,14 @@
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\CompareTriplets\bin\Debug\netcoreapp3.1\CompareTriplets.exe
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\CompareTriplets\bin\Debug\netcoreapp3.1\CompareTriplets.deps.json
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\CompareTriplets\bin\Debug\netcoreapp3.1\CompareTriplets.runtimeconfig.json
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\CompareTriplets\bin\Debug\netcoreapp3.1\CompareTriplets.runtimeconfig.dev.json
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\CompareTriplets\bin\Debug\netcoreapp3.1\CompareTriplets.dll
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\CompareTriplets\bin\Debug\netcoreapp3.1\CompareTriplets.pdb
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\CompareTriplets\obj\Debug\netcoreapp3.1\CompareTriplets.csproj.AssemblyReference.cache
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\CompareTriplets\obj\Debug\netcoreapp3.1\CompareTriplets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\CompareTriplets\obj\Debug\netcoreapp3.1\CompareTriplets.AssemblyInfoInputs.cache
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\CompareTriplets\obj\Debug\netcoreapp3.1\CompareTriplets.AssemblyInfo.cs
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\CompareTriplets\obj\Debug\netcoreapp3.1\CompareTriplets.csproj.CoreCompileInputs.cache
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\CompareTriplets\obj\Debug\netcoreapp3.1\CompareTriplets.dll
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\CompareTriplets\obj\Debug\netcoreapp3.1\CompareTriplets.pdb
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\CompareTriplets\obj\Debug\netcoreapp3.1\CompareTriplets.genruntimeconfig.cache
