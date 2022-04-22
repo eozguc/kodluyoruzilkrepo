@@ -1,0 +1,14 @@
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\Day_3_TypeConversions\bin\Debug\netcoreapp3.1\Day_3_TypeConversions.exe
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\Day_3_TypeConversions\bin\Debug\netcoreapp3.1\Day_3_TypeConversions.deps.json
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\Day_3_TypeConversions\bin\Debug\netcoreapp3.1\Day_3_TypeConversions.runtimeconfig.json
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\Day_3_TypeConversions\bin\Debug\netcoreapp3.1\Day_3_TypeConversions.runtimeconfig.dev.json
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\Day_3_TypeConversions\bin\Debug\netcoreapp3.1\Day_3_TypeConversions.dll
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\Day_3_TypeConversions\bin\Debug\netcoreapp3.1\Day_3_TypeConversions.pdb
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\Day_3_TypeConversions\obj\Debug\netcoreapp3.1\Day_3_TypeConversions.csproj.AssemblyReference.cache
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\Day_3_TypeConversions\obj\Debug\netcoreapp3.1\Day_3_TypeConversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\Day_3_TypeConversions\obj\Debug\netcoreapp3.1\Day_3_TypeConversions.AssemblyInfoInputs.cache
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\Day_3_TypeConversions\obj\Debug\netcoreapp3.1\Day_3_TypeConversions.AssemblyInfo.cs
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\Day_3_TypeConversions\obj\Debug\netcoreapp3.1\Day_3_TypeConversions.csproj.CoreCompileInputs.cache
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\Day_3_TypeConversions\obj\Debug\netcoreapp3.1\Day_3_TypeConversions.dll
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\Day_3_TypeConversions\obj\Debug\netcoreapp3.1\Day_3_TypeConversions.pdb
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\Day_3_TypeConversions\obj\Debug\netcoreapp3.1\Day_3_TypeConversions.genruntimeconfig.cache

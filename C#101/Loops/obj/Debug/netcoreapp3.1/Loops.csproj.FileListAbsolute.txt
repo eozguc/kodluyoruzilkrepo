@@ -1,0 +1,14 @@
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\Loops\bin\Debug\netcoreapp3.1\Loops.exe
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\Loops\bin\Debug\netcoreapp3.1\Loops.deps.json
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\Loops\bin\Debug\netcoreapp3.1\Loops.runtimeconfig.json
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\Loops\bin\Debug\netcoreapp3.1\Loops.runtimeconfig.dev.json
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\Loops\bin\Debug\netcoreapp3.1\Loops.dll
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\Loops\bin\Debug\netcoreapp3.1\Loops.pdb
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\Loops\obj\Debug\netcoreapp3.1\Loops.csproj.AssemblyReference.cache
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\Loops\obj\Debug\netcoreapp3.1\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\Loops\obj\Debug\netcoreapp3.1\Loops.AssemblyInfoInputs.cache
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\Loops\obj\Debug\netcoreapp3.1\Loops.AssemblyInfo.cs
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\Loops\obj\Debug\netcoreapp3.1\Loops.csproj.CoreCompileInputs.cache
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\Loops\obj\Debug\netcoreapp3.1\Loops.dll
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\Loops\obj\Debug\netcoreapp3.1\Loops.pdb
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\Loops\obj\Debug\netcoreapp3.1\Loops.genruntimeconfig.cache

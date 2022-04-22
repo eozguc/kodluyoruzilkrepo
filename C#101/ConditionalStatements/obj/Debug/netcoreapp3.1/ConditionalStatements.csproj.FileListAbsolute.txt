@@ -1,0 +1,14 @@
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\ConditionalStatements\bin\Debug\netcoreapp3.1\ConditionalStatements.exe
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\ConditionalStatements\bin\Debug\netcoreapp3.1\ConditionalStatements.deps.json
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\ConditionalStatements\bin\Debug\netcoreapp3.1\ConditionalStatements.runtimeconfig.json
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\ConditionalStatements\bin\Debug\netcoreapp3.1\ConditionalStatements.runtimeconfig.dev.json
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\ConditionalStatements\bin\Debug\netcoreapp3.1\ConditionalStatements.dll
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\ConditionalStatements\bin\Debug\netcoreapp3.1\ConditionalStatements.pdb
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\ConditionalStatements\obj\Debug\netcoreapp3.1\ConditionalStatements.csproj.AssemblyReference.cache
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\ConditionalStatements\obj\Debug\netcoreapp3.1\ConditionalStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\ConditionalStatements\obj\Debug\netcoreapp3.1\ConditionalStatements.AssemblyInfoInputs.cache
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\ConditionalStatements\obj\Debug\netcoreapp3.1\ConditionalStatements.AssemblyInfo.cs
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\ConditionalStatements\obj\Debug\netcoreapp3.1\ConditionalStatements.csproj.CoreCompileInputs.cache
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\ConditionalStatements\obj\Debug\netcoreapp3.1\ConditionalStatements.dll
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\ConditionalStatements\obj\Debug\netcoreapp3.1\ConditionalStatements.pdb
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\ConditionalStatements\obj\Debug\netcoreapp3.1\ConditionalStatements.genruntimeconfig.cache
