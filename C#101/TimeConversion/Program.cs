@@ -36,6 +36,16 @@ namespace TimeConversion
                 else return "0" + tmp.ToString() + s.Substring(2,s.Length-4);
             }
         }
+        public static string TimeConversion(string s)
+        {
+            var dt = DateTime.ParseExact(
+
+                s,"hh:mm:sstt",
+                CultureInfo.InvariantCulture);
+
+            return $"{dt:HH:mm:ss}";          
+            
+        }
 
     }
 }
