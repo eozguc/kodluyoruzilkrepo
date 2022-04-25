@@ -1,0 +1,14 @@
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\PositifeNumber\bin\Debug\netcoreapp3.1\PositifeNumber.exe
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\PositifeNumber\bin\Debug\netcoreapp3.1\PositifeNumber.deps.json
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\PositifeNumber\bin\Debug\netcoreapp3.1\PositifeNumber.runtimeconfig.json
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\PositifeNumber\bin\Debug\netcoreapp3.1\PositifeNumber.runtimeconfig.dev.json
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\PositifeNumber\bin\Debug\netcoreapp3.1\PositifeNumber.dll
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\PositifeNumber\bin\Debug\netcoreapp3.1\PositifeNumber.pdb
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\PositifeNumber\obj\Debug\netcoreapp3.1\PositifeNumber.csproj.AssemblyReference.cache
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\PositifeNumber\obj\Debug\netcoreapp3.1\PositifeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\PositifeNumber\obj\Debug\netcoreapp3.1\PositifeNumber.AssemblyInfoInputs.cache
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\PositifeNumber\obj\Debug\netcoreapp3.1\PositifeNumber.AssemblyInfo.cs
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\PositifeNumber\obj\Debug\netcoreapp3.1\PositifeNumber.csproj.CoreCompileInputs.cache
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\PositifeNumber\obj\Debug\netcoreapp3.1\PositifeNumber.dll
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\PositifeNumber\obj\Debug\netcoreapp3.1\PositifeNumber.pdb
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\PositifeNumber\obj\Debug\netcoreapp3.1\PositifeNumber.genruntimeconfig.cache
