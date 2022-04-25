@@ -1,0 +1,14 @@
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\AVeryBigSum\bin\Debug\netcoreapp3.1\AVeryBigSum.exe
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\AVeryBigSum\bin\Debug\netcoreapp3.1\AVeryBigSum.deps.json
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\AVeryBigSum\bin\Debug\netcoreapp3.1\AVeryBigSum.runtimeconfig.json
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\AVeryBigSum\bin\Debug\netcoreapp3.1\AVeryBigSum.runtimeconfig.dev.json
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\AVeryBigSum\bin\Debug\netcoreapp3.1\AVeryBigSum.dll
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\AVeryBigSum\bin\Debug\netcoreapp3.1\AVeryBigSum.pdb
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\AVeryBigSum\obj\Debug\netcoreapp3.1\AVeryBigSum.csproj.AssemblyReference.cache
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\AVeryBigSum\obj\Debug\netcoreapp3.1\AVeryBigSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\AVeryBigSum\obj\Debug\netcoreapp3.1\AVeryBigSum.AssemblyInfoInputs.cache
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\AVeryBigSum\obj\Debug\netcoreapp3.1\AVeryBigSum.AssemblyInfo.cs
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\AVeryBigSum\obj\Debug\netcoreapp3.1\AVeryBigSum.csproj.CoreCompileInputs.cache
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\AVeryBigSum\obj\Debug\netcoreapp3.1\AVeryBigSum.dll
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\AVeryBigSum\obj\Debug\netcoreapp3.1\AVeryBigSum.pdb
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\AVeryBigSum\obj\Debug\netcoreapp3.1\AVeryBigSum.genruntimeconfig.cache

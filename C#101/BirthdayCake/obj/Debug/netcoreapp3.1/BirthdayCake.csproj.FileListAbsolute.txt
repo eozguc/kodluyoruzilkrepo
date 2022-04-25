@@ -1,0 +1,14 @@
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\BirthdayCake\bin\Debug\netcoreapp3.1\BirthdayCake.exe
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\BirthdayCake\bin\Debug\netcoreapp3.1\BirthdayCake.deps.json
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\BirthdayCake\bin\Debug\netcoreapp3.1\BirthdayCake.runtimeconfig.json
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\BirthdayCake\bin\Debug\netcoreapp3.1\BirthdayCake.runtimeconfig.dev.json
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\BirthdayCake\bin\Debug\netcoreapp3.1\BirthdayCake.dll
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\BirthdayCake\bin\Debug\netcoreapp3.1\BirthdayCake.pdb
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\BirthdayCake\obj\Debug\netcoreapp3.1\BirthdayCake.csproj.AssemblyReference.cache
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\BirthdayCake\obj\Debug\netcoreapp3.1\BirthdayCake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\BirthdayCake\obj\Debug\netcoreapp3.1\BirthdayCake.AssemblyInfoInputs.cache
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\BirthdayCake\obj\Debug\netcoreapp3.1\BirthdayCake.AssemblyInfo.cs
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\BirthdayCake\obj\Debug\netcoreapp3.1\BirthdayCake.csproj.CoreCompileInputs.cache
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\BirthdayCake\obj\Debug\netcoreapp3.1\BirthdayCake.dll
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\BirthdayCake\obj\Debug\netcoreapp3.1\BirthdayCake.pdb
+C:\Users\Erhan Özgüç\Downloads\kodluyoruzilkrepo-main\kodluyoruzilkrepo-main\C#101\BirthdayCake\obj\Debug\netcoreapp3.1\BirthdayCake.genruntimeconfig.cache
