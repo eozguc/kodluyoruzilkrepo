@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pVjzlRJ3s1dfso806AIivxaSZ3IBcXY/iP+eHMUg1TNQgScEic5qCdMfQqEsu5VUiWdOkcBuUpd6h7PpsC9Fyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Erhan Özgüç\\Downloads\\kodluyoruzilkrepo-main\\kodluyoruzilkrepo-main\\C#101\\ClassVsInstance\\ClassVsInstance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Erhan Özgüç\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
