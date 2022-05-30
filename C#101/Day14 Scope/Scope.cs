@@ -1,0 +1,47 @@
+﻿namespace Day14_Scope;
+
+public class Scope
+{
+    static void Main(string[] args) {
+        Convert.ToInt32(Console.ReadLine());
+
+       // int[] a = Console.ReadLine().Split(' ').Select(x = >Convert.ToInt32(x)).ToArray();
+       int[] a = Console.ReadLine().Split(' ').Select(x => Convert.ToInt32(x)).ToArray();
+
+        Difference d = new Difference(a);
+
+        d.computeDifference();
+
+        Console.Write(d.maximumDifference);
+    }
+}
+
+class Difference {
+    private int[] elements;
+    public int maximumDifference;
+
+    // Add your code here
+    public Difference(int[] elements) {
+        this.elements = elements;
+    }
+
+    public int computeDifference() {
+        int maxElement = elements[0];
+        int minElement = elements[0];
+
+        for (int i = 0; i < elements.Length; i++) {
+            if (elements[i] < minElement) {
+                minElement = elements[i];
+
+            }
+            if (elements[i] > maxElement) {
+                maxElement = elements[i];
+            }
+        }
+        maximumDifference = Math.Abs(maxElement - minElement);
+        return maximumDifference;
+    }
+}
+
+
+   
