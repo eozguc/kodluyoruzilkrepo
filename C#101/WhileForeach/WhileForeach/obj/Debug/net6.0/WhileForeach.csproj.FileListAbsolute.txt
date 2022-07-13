@@ -1,0 +1,15 @@
+C:\Users\Erhan Özgüç\RiderProjects\WhileForeach\WhileForeach\bin\Debug\net6.0\WhileForeach.exe
+C:\Users\Erhan Özgüç\RiderProjects\WhileForeach\WhileForeach\bin\Debug\net6.0\WhileForeach.deps.json
+C:\Users\Erhan Özgüç\RiderProjects\WhileForeach\WhileForeach\bin\Debug\net6.0\WhileForeach.runtimeconfig.json
+C:\Users\Erhan Özgüç\RiderProjects\WhileForeach\WhileForeach\bin\Debug\net6.0\WhileForeach.dll
+C:\Users\Erhan Özgüç\RiderProjects\WhileForeach\WhileForeach\bin\Debug\net6.0\WhileForeach.pdb
+C:\Users\Erhan Özgüç\RiderProjects\WhileForeach\WhileForeach\obj\Debug\net6.0\WhileForeach.csproj.AssemblyReference.cache
+C:\Users\Erhan Özgüç\RiderProjects\WhileForeach\WhileForeach\obj\Debug\net6.0\WhileForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erhan Özgüç\RiderProjects\WhileForeach\WhileForeach\obj\Debug\net6.0\WhileForeach.AssemblyInfoInputs.cache
+C:\Users\Erhan Özgüç\RiderProjects\WhileForeach\WhileForeach\obj\Debug\net6.0\WhileForeach.AssemblyInfo.cs
+C:\Users\Erhan Özgüç\RiderProjects\WhileForeach\WhileForeach\obj\Debug\net6.0\WhileForeach.csproj.CoreCompileInputs.cache
+C:\Users\Erhan Özgüç\RiderProjects\WhileForeach\WhileForeach\obj\Debug\net6.0\WhileForeach.dll
+C:\Users\Erhan Özgüç\RiderProjects\WhileForeach\WhileForeach\obj\Debug\net6.0\refint\WhileForeach.dll
+C:\Users\Erhan Özgüç\RiderProjects\WhileForeach\WhileForeach\obj\Debug\net6.0\WhileForeach.pdb
+C:\Users\Erhan Özgüç\RiderProjects\WhileForeach\WhileForeach\obj\Debug\net6.0\WhileForeach.genruntimeconfig.cache
+C:\Users\Erhan Özgüç\RiderProjects\WhileForeach\WhileForeach\obj\Debug\net6.0\ref\WhileForeach.dll
