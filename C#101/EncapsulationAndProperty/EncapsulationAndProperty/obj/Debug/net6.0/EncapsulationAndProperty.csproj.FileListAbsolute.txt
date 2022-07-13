@@ -1,0 +1,15 @@
+C:\Users\Erhan Özgüç\RiderProjects\EncapsulationAndProperty\EncapsulationAndProperty\bin\Debug\net6.0\EncapsulationAndProperty.exe
+C:\Users\Erhan Özgüç\RiderProjects\EncapsulationAndProperty\EncapsulationAndProperty\bin\Debug\net6.0\EncapsulationAndProperty.deps.json
+C:\Users\Erhan Özgüç\RiderProjects\EncapsulationAndProperty\EncapsulationAndProperty\bin\Debug\net6.0\EncapsulationAndProperty.runtimeconfig.json
+C:\Users\Erhan Özgüç\RiderProjects\EncapsulationAndProperty\EncapsulationAndProperty\bin\Debug\net6.0\EncapsulationAndProperty.dll
+C:\Users\Erhan Özgüç\RiderProjects\EncapsulationAndProperty\EncapsulationAndProperty\bin\Debug\net6.0\EncapsulationAndProperty.pdb
+C:\Users\Erhan Özgüç\RiderProjects\EncapsulationAndProperty\EncapsulationAndProperty\obj\Debug\net6.0\EncapsulationAndProperty.csproj.AssemblyReference.cache
+C:\Users\Erhan Özgüç\RiderProjects\EncapsulationAndProperty\EncapsulationAndProperty\obj\Debug\net6.0\EncapsulationAndProperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erhan Özgüç\RiderProjects\EncapsulationAndProperty\EncapsulationAndProperty\obj\Debug\net6.0\EncapsulationAndProperty.AssemblyInfoInputs.cache
+C:\Users\Erhan Özgüç\RiderProjects\EncapsulationAndProperty\EncapsulationAndProperty\obj\Debug\net6.0\EncapsulationAndProperty.AssemblyInfo.cs
+C:\Users\Erhan Özgüç\RiderProjects\EncapsulationAndProperty\EncapsulationAndProperty\obj\Debug\net6.0\EncapsulationAndProperty.csproj.CoreCompileInputs.cache
+C:\Users\Erhan Özgüç\RiderProjects\EncapsulationAndProperty\EncapsulationAndProperty\obj\Debug\net6.0\EncapsulationAndProperty.dll
+C:\Users\Erhan Özgüç\RiderProjects\EncapsulationAndProperty\EncapsulationAndProperty\obj\Debug\net6.0\refint\EncapsulationAndProperty.dll
+C:\Users\Erhan Özgüç\RiderProjects\EncapsulationAndProperty\EncapsulationAndProperty\obj\Debug\net6.0\EncapsulationAndProperty.pdb
+C:\Users\Erhan Özgüç\RiderProjects\EncapsulationAndProperty\EncapsulationAndProperty\obj\Debug\net6.0\EncapsulationAndProperty.genruntimeconfig.cache
+C:\Users\Erhan Özgüç\RiderProjects\EncapsulationAndProperty\EncapsulationAndProperty\obj\Debug\net6.0\ref\EncapsulationAndProperty.dll
