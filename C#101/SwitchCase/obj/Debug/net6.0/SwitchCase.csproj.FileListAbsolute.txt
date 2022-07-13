@@ -1,0 +1,15 @@
+C:\Users\Erhan Özgüç\RiderProjects\SwitchCase\bin\Debug\net6.0\SwitchCase.exe
+C:\Users\Erhan Özgüç\RiderProjects\SwitchCase\bin\Debug\net6.0\SwitchCase.deps.json
+C:\Users\Erhan Özgüç\RiderProjects\SwitchCase\bin\Debug\net6.0\SwitchCase.runtimeconfig.json
+C:\Users\Erhan Özgüç\RiderProjects\SwitchCase\bin\Debug\net6.0\SwitchCase.dll
+C:\Users\Erhan Özgüç\RiderProjects\SwitchCase\bin\Debug\net6.0\SwitchCase.pdb
+C:\Users\Erhan Özgüç\RiderProjects\SwitchCase\obj\Debug\net6.0\SwitchCase.csproj.AssemblyReference.cache
+C:\Users\Erhan Özgüç\RiderProjects\SwitchCase\obj\Debug\net6.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erhan Özgüç\RiderProjects\SwitchCase\obj\Debug\net6.0\SwitchCase.AssemblyInfoInputs.cache
+C:\Users\Erhan Özgüç\RiderProjects\SwitchCase\obj\Debug\net6.0\SwitchCase.AssemblyInfo.cs
+C:\Users\Erhan Özgüç\RiderProjects\SwitchCase\obj\Debug\net6.0\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Erhan Özgüç\RiderProjects\SwitchCase\obj\Debug\net6.0\SwitchCase.dll
+C:\Users\Erhan Özgüç\RiderProjects\SwitchCase\obj\Debug\net6.0\refint\SwitchCase.dll
+C:\Users\Erhan Özgüç\RiderProjects\SwitchCase\obj\Debug\net6.0\SwitchCase.pdb
+C:\Users\Erhan Özgüç\RiderProjects\SwitchCase\obj\Debug\net6.0\SwitchCase.genruntimeconfig.cache
+C:\Users\Erhan Özgüç\RiderProjects\SwitchCase\obj\Debug\net6.0\ref\SwitchCase.dll
