@@ -1,0 +1,15 @@
+C:\Users\Erhan Özgüç\RiderProjects\AccessModifiersConstructor\AccessModifiersConstructor\bin\Debug\net6.0\AccessModifiersConstructor.exe
+C:\Users\Erhan Özgüç\RiderProjects\AccessModifiersConstructor\AccessModifiersConstructor\bin\Debug\net6.0\AccessModifiersConstructor.deps.json
+C:\Users\Erhan Özgüç\RiderProjects\AccessModifiersConstructor\AccessModifiersConstructor\bin\Debug\net6.0\AccessModifiersConstructor.runtimeconfig.json
+C:\Users\Erhan Özgüç\RiderProjects\AccessModifiersConstructor\AccessModifiersConstructor\bin\Debug\net6.0\AccessModifiersConstructor.dll
+C:\Users\Erhan Özgüç\RiderProjects\AccessModifiersConstructor\AccessModifiersConstructor\bin\Debug\net6.0\AccessModifiersConstructor.pdb
+C:\Users\Erhan Özgüç\RiderProjects\AccessModifiersConstructor\AccessModifiersConstructor\obj\Debug\net6.0\AccessModifiersConstructor.csproj.AssemblyReference.cache
+C:\Users\Erhan Özgüç\RiderProjects\AccessModifiersConstructor\AccessModifiersConstructor\obj\Debug\net6.0\AccessModifiersConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erhan Özgüç\RiderProjects\AccessModifiersConstructor\AccessModifiersConstructor\obj\Debug\net6.0\AccessModifiersConstructor.AssemblyInfoInputs.cache
+C:\Users\Erhan Özgüç\RiderProjects\AccessModifiersConstructor\AccessModifiersConstructor\obj\Debug\net6.0\AccessModifiersConstructor.AssemblyInfo.cs
+C:\Users\Erhan Özgüç\RiderProjects\AccessModifiersConstructor\AccessModifiersConstructor\obj\Debug\net6.0\AccessModifiersConstructor.csproj.CoreCompileInputs.cache
+C:\Users\Erhan Özgüç\RiderProjects\AccessModifiersConstructor\AccessModifiersConstructor\obj\Debug\net6.0\AccessModifiersConstructor.dll
+C:\Users\Erhan Özgüç\RiderProjects\AccessModifiersConstructor\AccessModifiersConstructor\obj\Debug\net6.0\refint\AccessModifiersConstructor.dll
+C:\Users\Erhan Özgüç\RiderProjects\AccessModifiersConstructor\AccessModifiersConstructor\obj\Debug\net6.0\AccessModifiersConstructor.pdb
+C:\Users\Erhan Özgüç\RiderProjects\AccessModifiersConstructor\AccessModifiersConstructor\obj\Debug\net6.0\AccessModifiersConstructor.genruntimeconfig.cache
+C:\Users\Erhan Özgüç\RiderProjects\AccessModifiersConstructor\AccessModifiersConstructor\obj\Debug\net6.0\ref\AccessModifiersConstructor.dll
